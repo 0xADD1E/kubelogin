@@ -9,7 +9,7 @@ import (
 	"github.com/int128/kubelogin/pkg/di"
 )
 
-var version = "HEAD"
+var version = "0xADD1E-20250514"
 
 func main() {
 	ctx := context.Background()
